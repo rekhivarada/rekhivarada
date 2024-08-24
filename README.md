@@ -1,5 +1,5 @@
 Welcome to my GitHub ! I'm a dedicated Software Engineer with a passion for building scalable software, exploring cloud technologies, and diving deep into data analytics. My journey in tech has been fueled by curiosity and a love for solving complex problems.
----
+
 ## 👨‍💻 About Me
 
 I'm currently working as a Software Engineer at Capgemini Engineering, where I've had the opportunity to collaborate with leading organizations like Canon Medical Systems Corporation. My expertise spans across software development, cloud deployment, and data-driven insights. I am constantly expanding my knowledge in cloud computing and system design to create efficient, reliable systems.
@@ -32,7 +32,7 @@ I'm always open to collaborating on innovative projects that push the boundaries
 
 - **Email:** [rekhivarada@gmail.com](mailto:rekhivarada@gmail.com)
 - **LinkedIn:** [https://linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/varada-rekhi-544a06191/])
-  ---
+- 
 ### 🌟 Thanks for Visiting
 
 Feel free to explore my repositories and reach out if you’d like to work together on something awesome!
