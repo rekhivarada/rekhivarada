@@ -31,7 +31,7 @@ Graduated with a CGPA of 9.54/10.00, I completed coursework in core areas like O
 I'm always open to collaborating on innovative projects that push the boundaries of technology. Whether you're working on something exciting in cloud computing, AI, or software development, or you have a great idea that needs technical expertise, I'd love to connect!
 
 - **Email:** [rekhivarada@gmail.com](mailto:rekhivarada@gmail.com)
-- **LinkedIn:** [https://linkedin.com/](https://www.linkedin.com/in/varada-rekhi-544a06191/])
+- **LinkedIn:** [Varada Rekhi](https://www.linkedin.com/in/varada-rekhi-544a06191/)
   
 ### 🌟 Thanks for Visiting
 
