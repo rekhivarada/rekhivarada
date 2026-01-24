@@ -12,7 +12,7 @@ I am motivated by curiosity, consistency, and growth, and I believe in writing c
 ## 🛠️ Experience
 
 ### Software Engineer | Capgemini Engineering, Pune, India  
-**October 2022 – June 2025**
+**October 2022 – December 2024**
 
 - At Capgemini Engineering, I've been fortunate to work on cutting-edge projects in the healthcare domain, including developing tools and APIs for MRI systems.
 - My role involves end-to-end software development, from writing efficient code in C++ and Python to deploying applications on Microsoft Azure.
