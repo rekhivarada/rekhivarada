@@ -2,14 +2,17 @@ Welcome to my GitHub! I'm a dedicated Software Engineer passionate about buildin
 
 ## 👨‍💻 About Me
 
-I'm currently working as a Software Engineer at Capgemini Engineering, where I've had the opportunity to collaborate with leading organizations like Canon Medical Systems Corporation. My expertise spans across software development, cloud deployment, and data-driven insights. I am constantly expanding my knowledge in cloud computing and system design to create efficient, reliable systems.
+I am currently pursuing my Master of Science at The University of Texas at Dallas in Information Technology and Management (ITM).
+I am a passionate, data-driven software engineer who enjoys building meaningful solutions and solving real-world problems through thoughtful design and logic.
 
-I enjoy exploring new technologies and working on side projects that challenge me to grow as a developer. I'm also passionate about contributing to the tech community and am always open to new ideas and collaborations.
+My academic journey has helped me develop a strong analytical mindset and a deep interest in working with data to drive better decisions and outcomes. I enjoy transforming complex problems into structured, efficient solutions and continuously improving my approach through learning and practice.
+
+I am motivated by curiosity, consistency, and growth, and I believe in writing clean, reliable work that creates real impact. I am always eager to learn, collaborate, and grow as a professional in the software engineering space.
 
 ## 🛠️ Experience
 
 ### Software Engineer | Capgemini Engineering, Pune, India  
-**October 2022 – Present**
+**October 2022 – June 2025**
 
 - At Capgemini Engineering, I've been fortunate to work on cutting-edge projects in the healthcare domain, including developing tools and APIs for MRI systems.
 - My role involves end-to-end software development, from writing efficient code in C++ and Python to deploying applications on Microsoft Azure.
@@ -23,18 +26,23 @@ I enjoy exploring new technologies and working on side projects that challenge m
 
 ## 🎓 Education
 
+**MS in Information Technology and Management**  
+*The University of Texas at Dallas*  
+*August 2025 – Present*
+*GPA - 3.78/4*
+
 **Bachelor’s in Computer Engineering**  
 *Amrutvahini College of Engineering, Sangamner, India*  
 *August 2018 – May 2022*
+*GPA - 9.56/10*
 
-Graduating with a CGPA of 9.54/10.00, I completed coursework in core areas like Object-Oriented Programming, Algorithms, Computer Networks, and Data Science, which laid a strong foundation for my career in software engineering and data analytics.
 
 ## 🤝 Let’s Collaborate
 
 I'm always open to collaborating on innovative projects that push the boundaries of technology. Whether you're working on something exciting in cloud computing, AI, or software development, or you have a great idea that needs technical expertise, I'd love to connect!
 
 - **Email:** [rekhivarada@gmail.com](mailto:rekhivarada@gmail.com)
-- **LinkedIn:** [Varada Rekhi](https://www.linkedin.com/in/varada-rekhi-544a06191/)
+- **LinkedIn:** [Varada Rekhi](https://www.linkedin.com/in/varadarekhi)
   
 ### 🌟 Thanks for Visiting
 
